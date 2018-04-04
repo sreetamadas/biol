@@ -1,0 +1,76 @@
+? websites: Cardiogr.am, health catalyst, biostar, bioinformatics.org, dropoutclub.org, Medgenera, medness blog, Sci wri
+
+
+? Data:
+https://github.com/beamandrew/medical-data/blob/master/README.md 
+
+
+? general topics on pubmed:
+machine learning AND antibiotic resistance 
+machine learning AND drug discovery 
+machine learning AND protein , machine learning AND protein AND healthcare 
+machine learning AND alzheimer / diabetes
+machine learning AND protein mutation 
+machine learning AND protein structure 
+
+
+? paper: 
+machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
+Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
+Recognition of protein allosteric states and residues: Machine learning approaches.
+Optical Detection of Degraded Therapeutic Proteins
+Principal component analysis in protein tertiary structure prediction.
+Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
+Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
+
+
+? GOOGLE:
+computational biology applications
+application of data analytics in healthcare
+https://www.datapine.com/kpi-examples-and-templates/healthcare 
+http://www.datapine.com/blog/big-data-examples-in-healthcare/ 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
+https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
+https://www.google.org/flutrends/about/#US
+
+microsoft malaria prediction network
+microsoft dengue outbreak prediction
+non-invasive prediction diabetes
+non-invasive prediction anaemia
+detection of infection from human sera
+
+application of genetic algorithm
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ (The Applications of Genetic Algorithms in Medicine)
+http://www.sciencedirect.com/science/article/pii/S0001706X13002131 (Using global maps to predict the risk of dengue in Europe)
+	
+
+http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
+articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
+unsolved problems in bioinformatics
+unsolved problems in biology – the current state of thinking (paper by SB Dev)
+https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+
+http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
+http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
+onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
+
+protein crystal and machine learning
+http://www.icr.ac.uk/blogs/science-talk-the-icr-blog/page-details/five-reasons-we-re-excited-by-how-structural-biology-is-advancing-cancer-research?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt7ARMy%2BBSki3VWtNB15AnQ%3D%3D
+
+
+############################################################################################################################
+Description of cells : https://www.malariasite.com/microscopic-tests/
+                       http://helid.digicollection.org/en/d/Jwho02e/10.html 
+
+Different types of images from diff. experiments: 
+http://www.malwest.gr/en-us/malaria/informationforhealthcareprofessionals/laboratorydiagnosis.aspx
+
+Papers:
+https://www.sciencedirect.com/science/article/pii/S1877050916312029
+http://www.macs.hw.ac.uk/bmvc2006/papers/156.pdf
+http://casereports.bmj.com/content/2014/bcr-2014-205820.full 
+
+
+
+Tricog, Curefit, predible health
