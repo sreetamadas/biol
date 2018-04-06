@@ -14,7 +14,7 @@ machine learning AND protein mutation
 machine learning AND protein structure 
 
 
-? paper: 
+? papers: 
 machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
 Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
 Recognition of protein allosteric states and residues: Machine learning approaches.
@@ -22,9 +22,12 @@ Optical Detection of Degraded Therapeutic Proteins
 Principal component analysis in protein tertiary structure prediction.
 Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
 Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
+deep learning for biology
 
 
 ? GOOGLE:
+deep learning for biology   ; https://github.com/hussius/deeplearning-biology
+deep learning drug discovery
 computational biology applications
 application of data analytics in healthcare
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
