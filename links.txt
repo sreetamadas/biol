@@ -28,6 +28,8 @@ Principal component analysis in protein tertiary structure prediction.
 Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
 Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
 deep learning for biology
+statistics for biologists  (nature pub.)
+machine learning applications in genetics and genomics
 
 
 ? GOOGLE:
@@ -35,12 +37,16 @@ deep learning for biology   ;
 deep learning drug discovery
 computational biology applications
 application of data analytics in healthcare
+bioinformatics recent developments
+machine learning in biology; ML in structural biology ; ML in bioinformatics; ML in healthcare; ML in healthcare devices
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
 http://www.datapine.com/blog/big-data-examples-in-healthcare/ 
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
 https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
 https://www.google.org/flutrends/about/#US
+
+
 
 microsoft malaria prediction network
 microsoft dengue outbreak prediction
