@@ -42,7 +42,7 @@ https://www.nature.com/articles/nmeth.4370
 
 ? GOOGLE:
 deep learning for biology   ; 
-deep learning drug discovery
+deep learning drug discovery 
 computational biology applications
 application of data analytics in healthcare
 bioinformatics recent developments
