@@ -30,11 +30,13 @@ Principal component analysis in protein tertiary structure prediction.
 Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
 Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
 deep learning for biology
-http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
-articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
 unsolved problems in bioinformatics
 unsolved problems in biology – the current state of thinking (paper by SB Dev)
 https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+
+http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
+articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
+https://www.nature.com/articles/nmeth.4370
 
 
 
