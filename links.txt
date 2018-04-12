@@ -45,6 +45,8 @@ deep learning for biology   ;
 deep learning drug discovery 
 computational biology applications
 application of data analytics in healthcare
+predictive analytics use cases in healthcare  ***
+
 bioinformatics recent developments
 machine learning in biology; ML in structural biology ; ML in bioinformatics; ML in healthcare; ML in healthcare devices
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
