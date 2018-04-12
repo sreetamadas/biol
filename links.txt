@@ -56,10 +56,9 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business
 https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
 https://www.google.org/flutrends/about/#US
 
-
-
 microsoft malaria prediction network
 microsoft dengue outbreak prediction
+detect dengue from blood smear          (cancer, diabetes, obesity, alzheimer)
 non-invasive prediction diabetes
 non-invasive prediction anaemia
 detection of infection from human sera
