@@ -1,0 +1,19 @@
+? websites: 
+Cardiogr.am, health catalyst, biostar, bioinformatics.org, dropoutclub.org, 
+https://blog.insightdatascience.com/tagged/insight-health-data
+https://blog.insightdatascience.com/
+Medgenera, medness blog, Sci wri
+Chan zuckerberg initiative
+https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discovery?utm_content=bufferba4dd&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+
+
+
+? Data:
+https://github.com/beamandrew/medical-data/blob/master/README.md 
+MICCAI
+https://github.com/hussius/deeplearning-biology
+https://github.com/gokceneraslan/awesome-deepbio
+
+
+
+Tricog, Curefit, predible health, healthify.me, Lantern
