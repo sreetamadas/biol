@@ -1,19 +1,3 @@
-? websites: 
-Cardiogr.am, health catalyst, biostar, bioinformatics.org, dropoutclub.org, 
-https://blog.insightdatascience.com/tagged/insight-health-data
-https://blog.insightdatascience.com/
-Medgenera, medness blog, Sci wri
-Chan zuckerberg initiative
-https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discovery?utm_content=bufferba4dd&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
-
-
-? Data:
-https://github.com/beamandrew/medical-data/blob/master/README.md 
-MICCAI
-https://github.com/hussius/deeplearning-biology
-https://github.com/gokceneraslan/awesome-deepbio
-
-
 ? general topics on pubmed:
 machine learning AND antibiotic resistance 
 machine learning AND drug discovery 
@@ -34,12 +18,22 @@ Can we accelerate medicinal chemistry by augmenting the chemist with Big Data an
 deep learning for biology
 unsolved problems in bioinformatics
 unsolved problems in biology – the current state of thinking (paper by SB Dev)
-https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
+https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
+http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
+http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
+onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
 
+?? application of genetic algorithm
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ (The Applications of Genetic Algorithms in Medicine)
+http://www.sciencedirect.com/science/article/pii/S0001706X13002131 (Using global maps to predict the risk of dengue in Europe)
+
+
+https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
 http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
 articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
 https://www.nature.com/articles/nmeth.4370
-
 
 
 ? GOOGLE:
@@ -48,14 +42,11 @@ deep learning drug discovery
 computational biology applications
 application of data analytics in healthcare
 predictive analytics use cases in healthcare  ***
-
 bioinformatics recent developments
 machine learning in biology; ML in structural biology ; ML in bioinformatics; ML in healthcare; ML in healthcare devices
+
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
 http://www.datapine.com/blog/big-data-examples-in-healthcare/ 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
-https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
 https://www.google.org/flutrends/about/#US
 
 microsoft malaria prediction network
@@ -65,16 +56,7 @@ non-invasive prediction diabetes
 non-invasive prediction anaemia
 detection of infection from human sera
 
-application of genetic algorithm
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ (The Applications of Genetic Algorithms in Medicine)
-http://www.sciencedirect.com/science/article/pii/S0001706X13002131 (Using global maps to predict the risk of dengue in Europe)
 	
-
-
-http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
-http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
-onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
-
 protein crystal and machine learning
 http://www.icr.ac.uk/blogs/science-talk-the-icr-blog/page-details/five-reasons-we-re-excited-by-how-structural-biology-is-advancing-cancer-research?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bt7ARMy%2BBSki3VWtNB15AnQ%3D%3D
 
@@ -93,4 +75,3 @@ http://casereports.bmj.com/content/2014/bcr-2014-205820.full
 
 
 
-Tricog, Curefit, predible health, healthify.me, Lantern
