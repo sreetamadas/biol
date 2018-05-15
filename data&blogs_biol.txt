@@ -14,6 +14,10 @@ MICCAI
 https://github.com/hussius/deeplearning-biology
 https://github.com/gokceneraslan/awesome-deepbio
 
+https://clinicaltrials.gov/
+NIH
+
+MoleculeNet (A Benchmark for Molecular Machine Learning)
 
 
 Tricog, Curefit, predible health, healthify.me, Lantern
