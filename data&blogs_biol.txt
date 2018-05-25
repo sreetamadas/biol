@@ -11,6 +11,7 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 
 ? Data:
 https://github.com/beamandrew/medical-data/blob/master/README.md 
+https://data.broadinstitute.org/bbbc/image_sets.html
 MICCAI
 https://github.com/hussius/deeplearning-biology
 https://github.com/gokceneraslan/awesome-deepbio
