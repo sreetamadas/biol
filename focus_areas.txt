@@ -9,12 +9,10 @@ ML
 crystal images, 
 crystallographic images, 
 protein images(?)
-healthcare : X-ray & microscopy data (kaggle)
 
 numeric data (what exactly in this context - vectors of protein sequences?)
-disease spread data
 
-text data (protein seq, research papers, patient records)
+text data (protein seq, research papers)
 
 
 
@@ -31,12 +29,16 @@ biotech applications
 - reaction prediction (?),
 - in silico detection of best enzyme variant with required properties
 
-NLP for summarization of research papers - key research in a domain
+NLP 
+- for summarization of research papers (find key research done in a domain)
+- patient records (readmission risk prediction)
 
 image processing in other healthcare-related topics
-- 
+- X-ray & microscopy data (kaggle)
 
-
-appropriate problems in thematic areas of antibiotic resistance, alzheimer/diabetes/cancer/obesity/TB
+appropriate problems in thematic areas of 
+- antibiotic resistance,
+- alzheimer/diabetes/cancer/obesity/TB/ tropical diseases (dengue, etc)
+- disease spread 
 
 
