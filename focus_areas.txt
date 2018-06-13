@@ -1,0 +1,35 @@
+### skills ### 
+crystallography
+proteins
+ML
+
+
+
+### corrs. data ###  
+crystal images, 
+crystallographic images, 
+protein images(?)
+
+numeric data (what exactly in this context - vectors of protein sequences?)
+
+text data (protein seq, research papers)
+
+
+
+### application areas ###
+crystal detection (image data)
+protein crystallization prediction (numeric data)
+
+drug discovery applications
+- molecule prediction/detection with required properties , 
+- property prediction of selected molecule,
+- NLP to select items from reasearch papers (meta-research)
+
+biotech applications
+- reaction prediction (?),
+- in silico detection of best enzyme variant with required properties
+
+NLP for summarization of research papers - key research in a domain
+
+image processing in other healthcare-related topics
+- 
