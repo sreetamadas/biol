@@ -33,3 +33,6 @@ NLP for summarization of research papers - key research in a domain
 
 image processing in other healthcare-related topics
 - 
+
+
+appropriate problems in thematic areas of antibiotic resistance, alzheimer/diabetes/cancer/obesity/TB
