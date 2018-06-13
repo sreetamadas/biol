@@ -9,10 +9,12 @@ ML
 crystal images, 
 crystallographic images, 
 protein images(?)
+healthcare : X-ray & microscopy data (kaggle)
 
 numeric data (what exactly in this context - vectors of protein sequences?)
+disease spread data
 
-text data (protein seq, research papers)
+text data (protein seq, research papers, patient records)
 
 
 
@@ -36,3 +38,5 @@ image processing in other healthcare-related topics
 
 
 appropriate problems in thematic areas of antibiotic resistance, alzheimer/diabetes/cancer/obesity/TB
+
+
