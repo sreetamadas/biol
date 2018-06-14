@@ -13,15 +13,30 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 https://github.com/beamandrew/medical-data/blob/master/README.md 
 https://data.broadinstitute.org/bbbc/image_sets.html
 MICCAI
-https://github.com/hussius/deeplearning-biology
-https://github.com/gokceneraslan/awesome-deepbio
+https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge
+MURA https://stanfordmlgroup.github.io/competitions/mura/    (X-ray images)
+https://data.broadinstitute.org/bbbc/image_sets.html
+## some website with 3d imaging from organs
+
 
 http://medicaldecathlon.com/
 
 https://clinicaltrials.gov/
 NIH
 
+
 MoleculeNet (A Benchmark for Molecular Machine Learning)
+AtomNet
+ChemGAN challenge : drug discovery
+CrystalNet
+
+
+? Papers:
+https://github.com/hussius/deeplearning-biology
+https://github.com/gokceneraslan/awesome-deepbio
+http://www.arxiv-sanity.com/search?q=drug+design
 
 
 Tricog, Curefit, predible health, healthify.me, Lantern
+
+
