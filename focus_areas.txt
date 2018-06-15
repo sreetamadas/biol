@@ -1,11 +1,11 @@
-### skills ### 
+####### skills ####### 
 crystallography
 proteins
 ML
 
 
 
-### corrs. data ###  
+######### corrs. data #########  
 crystal images, 
 crystallographic images, 
 protein images(?)
@@ -16,29 +16,48 @@ text data (protein seq, research papers)
 
 
 
-### application areas ###
-crystal detection (image data)
-protein crystallization prediction (numeric data)
-
-drug discovery applications
-- molecule prediction/detection with required properties , 
-- property prediction of selected molecule,
-- NLP to select items from reasearch papers (meta-research)
-
-biotech applications
-- reaction prediction (?),
-- in silico detection of best enzyme variant with required properties
-
-NLP 
-- for summarization of research papers (find key research done in a domain)
-- patient records (readmission risk prediction)
-
-image processing in other healthcare-related topics
-- X-ray & microscopy data (kaggle)
+####### application areas ########
 
 appropriate problems in thematic areas of 
 - antibiotic resistance,
 - alzheimer/diabetes/cancer/obesity/TB/ tropical diseases (dengue, etc)
 - disease spread 
+- diagnosing early stages of disease
+
+* healthcare problems: data should be easy to acquire/ handle, non-invasive method
+image data + genomics + clinical data
+
+
+
+image processing in other healthcare-related topics
+- X-ray & microscopy data (kaggle)
+
+
+NLP 
+- for summarization of research papers (find key research done in a domain)
+- patient records (readmission risk prediction)
+
+
+
+function prediction/ annotation
+dynamics prediction
+structure prediction (address any bottlenecks in X-ray structure determination?)
+protein crystallization prediction (numeric data)
+crystal detection (image data)
+
+
+drug discovery applications
+- molecule prediction/detection with required properties , 
+- property prediction of selected molecule,
+- NLP to select items from reasearch papers (meta-research)
+- bio-marker development
+
+
+biotech applications
+- reaction prediction (?),
+- in silico detection of best enzyme variant with required properties
+- protein-protein interaction prediction
+- protein design
+
 
 
