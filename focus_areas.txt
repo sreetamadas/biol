@@ -4,7 +4,6 @@ proteins
 ML
 
 
-
 ######### corrs. data #########  
 crystal images, 
 crystallographic images, 
@@ -13,7 +12,6 @@ protein images(?)
 numeric data (what exactly in this context - vectors of protein sequences?)
 
 text data (protein seq, research papers)
-
 
 
 ####### application areas ########
@@ -28,7 +26,6 @@ appropriate problems in thematic areas of
 image data + genomics + clinical data
 
 
-
 image processing in other healthcare-related topics
 - X-ray & microscopy data (kaggle)
 
@@ -36,7 +33,6 @@ image processing in other healthcare-related topics
 NLP 
 - for summarization of research papers (find key research done in a domain)
 - patient records (readmission risk prediction)
-
 
 
 function prediction/ annotation
