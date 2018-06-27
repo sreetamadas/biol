@@ -11,15 +11,15 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 
 ? Data:
 https://github.com/beamandrew/medical-data/blob/master/README.md 
+https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare/tree/master/datasets
+
 https://data.broadinstitute.org/bbbc/image_sets.html
 MICCAI
 https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge
-MURA https://stanfordmlgroup.github.io/competitions/mura/    (X-ray images)
+MURA    https://stanfordmlgroup.github.io/competitions/mura/    (X-ray images)
 https://data.broadinstitute.org/bbbc/image_sets.html
-## some website with 3d imaging from organs
+http://medicaldecathlon.com/     ## some website with 3d imaging from organs
 
-
-http://medicaldecathlon.com/
 
 https://clinicaltrials.gov/
 NIH
