@@ -21,6 +21,9 @@ appropriate problems in thematic areas of
 - alzheimer/diabetes/cancer/obesity/TB/ tropical diseases (dengue, etc)
 - disease spread 
 - diagnosing early stages of disease
+http://idronline.org/health-care-essential-human-right-proper-diagnosis-india/
+http://www.who.int/medical_devices/diagnostics/EDL_ExecutiveSummary_15may.pdf
+
 
 * healthcare problems: data should be easy to acquire/ handle, non-invasive method
 image data + genomics + clinical data
@@ -54,6 +57,6 @@ biotech applications
 - in silico detection of best enzyme variant with required properties
 - protein-protein interaction prediction
 - protein design
-
+https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare/tree/master/Project27-ProteinVariantMolecularEffectPredictor
 
 
