@@ -1,0 +1,11 @@
+Deep learning for classification and segmentation of ExoTaxa image data:
+
+Rapid advancements in the field of imaging technologies have led to a burst in the volumes of image data collected in different domains of life sciences. This is true for marine image data as well, which is an active topic of research to understand the role played by marine micro-organisms like plankton in maintaining the ecological balance.
+
+The improvement of high-throughput imaging technologies has necessitated the parallel development of different methodologies to aid in the automated annotation and classification of these images, since manual annotation of these vast number of images in no longer possible. A search on the Ecotaxa database (http://marine-imaging-workshop.com/documents/miw17/presentations/public/MIW17_Poster_MarcPicheral.pdf) shows the use of Random Forest machine learning algorithm for classifying images based on specially encrafted features. However, this still requires some intuition about the features to be crafted, and subsequent validation of the usefulness of the selected features through the assessment of their importance.
+
+The advent of deep learning has led to rapid improvements in the state-of-the-art capabilities for image classification and segmentation problems, using advanced neural network architectures. We herein propose to use deep learning architectures to address the following problems – 
+1.	Classification of the image
+2.	Segmenting the image to count the number of organisms visible in the sample of the image.
+
+The starting point for the machine learning algorithm will be the currently known neural network architectures, whose parameters will be tuned, and changes made to the architecture if necessary, to optimize the performance of the task at hand.
