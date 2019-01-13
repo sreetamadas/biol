@@ -25,6 +25,9 @@ google: use of machine learning in crystallography
 13. Insightful classification of crystal structures using deep learning
 14. Crystal Structure Prediction via Deep Learning
 
+15. The rise of deep learning in drug discovery   ;  https://www.sciencedirect.com/science/article/pii/S1359644617303598
+16. Statistical and machine learning approaches to predicting protein–ligand interactions  ;  https://www.sciencedirect.com/science/article/pii/S0959440X17301525
+
 
 
 image processing in mosflm
