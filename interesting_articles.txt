@@ -3,13 +3,24 @@ deep learning for biology   https://www.nature.com/articles/d41586-018-02174-z?l
 Deep learning sharpens views of cells and genes   https://www.nature.com/articles/d41586-018-00004-w
 
 
-1. A guide to deep learning in healthcare   (paper)
+PAPERS:
+1. A guide to deep learning in healthcare   
 2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
 3. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+4. Cinder: keeping crystallographers app-y.
+5. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
+6. Classification of crystallization outcomes using deep convolutional neural networks.
+7. Machine learning for autonomous crystal structure identification.
+8. Beyond Rotatable Bond Counts: Capturing 3D Conformational Flexibility in a Single Descriptor.
+9. TargetCrys: protein crystallization prediction by fusing multi-view features with two-layered SVM.
+10. The Virtual Screening of the Drug Protein with a Few Crystal Structures Based on the Adaboost-SVM.
+11. Crysalis: an integrated server for computational analysis and design of protein crystallization
+12. Improving the chances of successful protein structure determination with a random forest classifier
+
 
 
 electronic nose
 smell detection
-
+how to identify chemicals in smell
 
 
