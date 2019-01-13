@@ -3,8 +3,13 @@ deep learning for biology   https://www.nature.com/articles/d41586-018-02174-z?l
 Deep learning sharpens views of cells and genes   https://www.nature.com/articles/d41586-018-00004-w
 
 
-A guide to deep learning in healthcare   (paper)
-Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
-Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+1. A guide to deep learning in healthcare   (paper)
+2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
+3. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+
+
+electronic nose
+smell detection
+
 
 
