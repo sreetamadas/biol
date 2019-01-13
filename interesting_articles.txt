@@ -1,3 +1,4 @@
+GENERAL ARTICLES:
 deep learning for biology   https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
 
 Deep learning sharpens views of cells and genes   https://www.nature.com/articles/d41586-018-00004-w
@@ -7,6 +8,8 @@ PAPERS:
 1. A guide to deep learning in healthcare   
 2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
 3. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+
+Pubmed: crystallization AND machine learning 
 4. Cinder: keeping crystallographers app-y.
 5. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
 6. Classification of crystallization outcomes using deep convolutional neural networks.
@@ -17,6 +20,13 @@ PAPERS:
 11. Crysalis: an integrated server for computational analysis and design of protein crystallization
 12. Improving the chances of successful protein structure determination with a random forest classifier
 
+google: use of machine learning in crystallography
+13. Insightful classification of crystal structures using deep learning
+14. Crystal Structure Prediction via Deep Learning
+
+
+
+image processing in mosflm
 
 
 electronic nose
