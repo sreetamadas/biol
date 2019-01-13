@@ -4,6 +4,7 @@ GENERAL ARTICLES:
 3. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
 4. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
 5. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php
+6. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php   ; reference to special issue on "Deep Learing for Drug Discovery and Biomarker Development" in Molecular Pharmaceutics
 
 
 
