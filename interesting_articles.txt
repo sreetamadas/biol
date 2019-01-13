@@ -1,7 +1,8 @@
 GENERAL ARTICLES:
-deep learning for biology   https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+1. deep learning for biology ;  https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
+3. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
 
-Deep learning sharpens views of cells and genes   https://www.nature.com/articles/d41586-018-00004-w
 
 
 PAPERS:
