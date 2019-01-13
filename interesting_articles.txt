@@ -2,6 +2,8 @@ GENERAL ARTICLES:
 1. deep learning for biology ;  https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
 2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
 3. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
+4. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
+5. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php
 
 
 
@@ -27,6 +29,9 @@ google: use of machine learning in crystallography
 
 15. The rise of deep learning in drug discovery   ;  https://www.sciencedirect.com/science/article/pii/S1359644617303598
 16. Statistical and machine learning approaches to predicting protein–ligand interactions  ;  https://www.sciencedirect.com/science/article/pii/S0959440X17301525
+17. Inverse molecular design using machine learning: Generative models for matter engineering  ; http://science.sciencemag.org/content/361/6400/360
+
+18. Machine Learning in Classification Time Series with Fractal Properties  ;  https://www.mdpi.com/2306-5729/4/1/5
 
 
 
