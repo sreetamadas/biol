@@ -10,7 +10,10 @@ GENERAL ARTICLES:
 PAPERS:
 1. A guide to deep learning in healthcare   
 2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
-3. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+3. Machine Learning for Protein Function       https://arxiv.org/abs/1603.02021
+4. Develop machine learning based predictive models for engineering protein solubility  ;  https://arxiv.org/ftp/arxiv/papers/1806/1806.11369.pdf
+5. Computational protein design with deep learning neural networks   https://arxiv.org/ftp/arxiv/papers/1801/1801.07130.pdf
+6. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
 
 Pubmed: crystallization AND machine learning 
 4. Cinder: keeping crystallographers app-y.
