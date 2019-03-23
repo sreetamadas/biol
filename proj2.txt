@@ -1,0 +1,19 @@
+      ## dengue or malaria detection:
+https://data.broadinstitute.org/bbbc/BBBC041/
+google: dengue prediction blood image
+paper: Detection of Dengue Fever with Platelets Count using Image Processing Techniques
+
+
+     ## general applicability of our AI system for diagnosis of different diseases ##
+https://www.cell.com/cell/fulltext/S0092-8674(18)30154-5  (Identifying Medical Diagnoses and Treatable Diseases
+by Image-Based Deep Learning)
+This is also the theme of 3D images on medicaldecathlon
+
+
+   ## google: 
+medical image data analysis
+cryoem deep learning
+crystalnet xray, use of machine learning in crystallography,  PUBMED: crystallization AND machine learning 
+protein image data , protein image data machine learning
+
+
