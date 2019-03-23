@@ -12,6 +12,7 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 ? Data:
 https://github.com/beamandrew/medical-data/blob/master/README.md 
 https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare/tree/master/datasets
+https://github.com/sfikas/medical-imaging-datasets
 
 https://data.broadinstitute.org/bbbc/image_sets.html
 MICCAI
