@@ -6,6 +6,7 @@ datasciencecentral
 Medgenera, medness blog, Sci wri
 Chan zuckerberg initiative
 https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discovery?utm_content=bufferba4dd&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html
 
 
 
@@ -13,13 +14,23 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 https://github.com/beamandrew/medical-data/blob/master/README.md 
 https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare/tree/master/datasets
 https://github.com/sfikas/medical-imaging-datasets
+https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html  (provides links to datasets: kaggle, osirix, etc)
 
-https://data.broadinstitute.org/bbbc/image_sets.html
+https://data.broadinstitute.org/bbbc/image_sets.html  (e.g. P. vivax (malaria) infected human blood smears)
 MICCAI
-https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge
-https://caddementia.grand-challenge.org/
-MURA    https://stanfordmlgroup.github.io/competitions/mura/    (X-ray images)
-http://medicaldecathlon.com/     ## some website with 3d imaging from organs
+https://www.nmr.mgh.harvard.edu/lab/laboratory-computational-imaging-biomarkers/miccai-2014-machine-learning-challenge  (brain imaging (neuroimaging) data for clinically relevant prediction problems)
+
+https://caddementia.grand-challenge.org/   (Computer-aided diagnosis methods based on structural brain MRI, perform multi-class classification of patients with Alzheimer’s disease (AD), patients with mild cognitive impairment (MCI) and healthy controls (CN).)
+
+MURA    https://stanfordmlgroup.github.io/competitions/mura/    (bone X-ray images; determine normal vs abnormal)
+http://medicaldecathlon.com/     ( website with 3d imaging from organs: build common algo for the different segmentation tasks)
+https://www.cancerimagingarchive.net/   (medical images of cancer)
+
+http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm#biomed  (links to different image datasets)
+
+http://dreamchallenges.org/  (Malaria, Drug-Kinase Binding Prediction Challenge)
+http://www.grand-challenge.org/challenges/
+
 
 
 
