@@ -44,6 +44,10 @@ application of data analytics in healthcare
 predictive analytics use cases in healthcare  ***
 bioinformatics recent developments
 machine learning in biology; ML in structural biology ; ML in bioinformatics; ML in healthcare; ML in healthcare devices
+protein image data machine learning
+protein image data
+crystalnet xray
+
 
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
 http://www.datapine.com/blog/big-data-examples-in-healthcare/ 
