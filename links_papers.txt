@@ -5,6 +5,7 @@ machine learning AND protein , machine learning AND protein AND healthcare
 machine learning AND alzheimer / diabetes
 machine learning AND protein mutation 
 machine learning AND protein structure 
+crystallization AND machine learning 
 
 
 ? papers: 
@@ -38,15 +39,29 @@ https://www.nature.com/articles/nmeth.4370
 
 ? GOOGLE:
 deep learning for biology   ; 
+
 deep learning drug discovery 
-computational biology applications
+deep learning AND fragment AND drug discovery
+antibiotic resistance machine learning
+
 application of data analytics in healthcare
 predictive analytics use cases in healthcare  ***
+
+computational biology applications
+New computational tools learn complex motifs from large sequence data sets.
 bioinformatics recent developments
 machine learning in biology; ML in structural biology ; ML in bioinformatics; ML in healthcare; ML in healthcare devices
+
+medical image data analysis
+machine learning in protein engineering arxiv
 protein image data machine learning
 protein image data
 crystalnet xray
+crystallization AND machine learning 
+use of machine learning in crystallography
+A convolutional neural network-based screening tool for X-ray serial crystallography  (paper)
+alzheimer machine learning
+cryoem deep learning   (google scholar)
 
 
 https://www.datapine.com/kpi-examples-and-templates/healthcare 
