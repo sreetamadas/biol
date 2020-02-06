@@ -9,6 +9,13 @@ https://blog.benchsci.com/startups-using-artificial-intelligence-in-drug-discove
 https://www.kdnuggets.com/2017/03/medical-image-analysis-deep-learning.html
 
 
+Health Data Science - Open-Access (Free) Textbooks
+1. Fundamentals of Clinical Data Science: https://lnkd.in/eacNnjz
+2. Secondary Analysis of Electronic Health Records: https://lnkd.in/eQ5rdiE
+3. Clinical Text Mining: https://lnkd.in/e9C2EWE
+Check out the Health Data Science Association for more useful resources like these. #HealthDSA is a nonprofit organization for data science & analytics professionals in healthcare & life sciences. Join FREE: www.HealthDSA.org
+
+
 
 ? Data:
 https://github.com/beamandrew/medical-data/blob/master/README.md 
