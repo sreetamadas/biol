@@ -8,7 +8,37 @@ machine learning AND protein structure
 crystallization AND machine learning 
 
 
+? GENERAL ARTICLES:
+1. deep learning for biology ;  https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
+3. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
+4. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
+5. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php   ; reference to special issue on "Deep Learing for Drug Discovery and Biomarker Development" in Molecular Pharmaceutics
+6. AlphaFold: Using AI for scientific discovery  ; (AI in protein folding) ; https://deepmind.com/blog/alphafold/?utm_content=buffer2b15f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+7. Automating Drug Discoveries Using Computer Vision ;(Classification of Crystallization Outcomes using Deep Convolutional Neural Networks)  ; https://ai.googleblog.com/2018/07/automating-drug-discoveries-using.html
+8. Combining GANs and reinforcement learning for drug discovery ; https://www.eurekalert.org/pub_releases/2018-05/imi-cga050918.php
+
+
+
 ? papers: 
+1. A guide to deep learning in healthcare   
+2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
+3. Machine Learning for Protein Function       https://arxiv.org/abs/1603.02021
+4. Develop machine learning based predictive models for engineering protein solubility  ;  https://arxiv.org/ftp/arxiv/papers/1806/1806.11369.pdf
+5. Computational protein design with deep learning neural networks   https://arxiv.org/ftp/arxiv/papers/1801/1801.07130.pdf
+6. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+
+(Pubmed: crystallization AND machine learning )
+4. Cinder: keeping crystallographers app-y.
+5. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
+6. Classification of crystallization outcomes using deep convolutional neural networks.
+7. Machine learning for autonomous crystal structure identification.
+8. Beyond Rotatable Bond Counts: Capturing 3D Conformational Flexibility in a Single Descriptor.
+9. TargetCrys: protein crystallization prediction by fusing multi-view features with two-layered SVM.
+10. The Virtual Screening of the Drug Protein with a Few Crystal Structures Based on the Adaboost-SVM.
+11. Crysalis: an integrated server for computational analysis and design of protein crystallization
+12. Improving the chances of successful protein structure determination with a random forest classifier
+
 machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
 Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
 Recognition of protein allosteric states and residues: Machine learning approaches.
@@ -35,6 +65,20 @@ https://www.broadinstitute.org/scientific-community/science/mia/models-inference
 http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
 articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
 https://www.nature.com/articles/nmeth.4370
+
+google: use of machine learning in crystallography
+13. Insightful classification of crystal structures using deep learning
+14. Crystal Structure Prediction via Deep Learning
+
+15. The rise of deep learning in drug discovery   ;  https://www.sciencedirect.com/science/article/pii/S1359644617303598
+16. Statistical and machine learning approaches to predicting protein–ligand interactions  ;  https://www.sciencedirect.com/science/article/pii/S0959440X17301525
+17. Inverse molecular design using machine learning: Generative models for matter engineering  ; http://science.sciencemag.org/content/361/6400/360
+18. AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery  ; https://arxiv.org/abs/1510.02855
+19. ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity?  ;  https://arxiv.org/pdf/1708.08227.pdf
+
+19. Machine Learning in Classification Time Series with Fractal Properties  ;  https://www.mdpi.com/2306-5729/4/1/5
+
+
 
 
 ? GOOGLE:
@@ -92,6 +136,17 @@ Papers:
 https://www.sciencedirect.com/science/article/pii/S1877050916312029
 http://www.macs.hw.ac.uk/bmvc2006/papers/156.pdf
 http://casereports.bmj.com/content/2014/bcr-2014-205820.full 
+
+
+image processing in mosflm
+
+
+electronic nose
+smell detection
+how to identify chemicals in smell
+
+
+
 
 
 
