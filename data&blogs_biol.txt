@@ -18,6 +18,9 @@ Check out the Health Data Science Association for more useful resources like the
 
 
 ? Data:
+https://dimensionless.in/deep-learning-data-sets-for-every-data-scientist/
+google dataset search
+
 https://github.com/beamandrew/medical-data/blob/master/README.md 
 https://github.com/TarrySingh/Deep-Neural-Networks-HealthCare/tree/master/datasets
 https://github.com/sfikas/medical-imaging-datasets
