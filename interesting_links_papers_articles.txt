@@ -9,10 +9,12 @@ crystallization AND machine learning
 
 
 ? GENERAL ARTICLES:
+   New antibiotics found in leafy bacterial battlegrounds    https://newatlas.com/leaf-bacteria-superbug-antibiotic/55671/
 1. deep learning for biology ;  https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
 2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
-3. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
-4. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
+3. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
+
+4. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
 5. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php   ; reference to special issue on "Deep Learing for Drug Discovery and Biomarker Development" in Molecular Pharmaceutics
 6. AlphaFold: Using AI for scientific discovery  ; (AI in protein folding) ; https://deepmind.com/blog/alphafold/?utm_content=buffer2b15f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 7. Automating Drug Discoveries Using Computer Vision ;(Classification of Crystallization Outcomes using Deep Convolutional Neural Networks)  ; https://ai.googleblog.com/2018/07/automating-drug-discoveries-using.html
@@ -28,6 +30,7 @@ crystallization AND machine learning
 5. Computational protein design with deep learning neural networks   https://arxiv.org/ftp/arxiv/papers/1801/1801.07130.pdf
 6. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
 
+
 (Pubmed: crystallization AND machine learning )
 4. Cinder: keeping crystallographers app-y.
 5. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
@@ -38,6 +41,8 @@ crystallization AND machine learning
 10. The Virtual Screening of the Drug Protein with a Few Crystal Structures Based on the Adaboost-SVM.
 11. Crysalis: an integrated server for computational analysis and design of protein crystallization
 12. Improving the chances of successful protein structure determination with a random forest classifier
+13. Eigenvector centrality for characterization of protein allosteric pathways   https://www.pnas.org/content/115/52/E12201
+
 
 machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
 Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
