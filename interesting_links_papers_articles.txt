@@ -89,6 +89,9 @@ google: use of machine learning in crystallography
 
 
 ? GOOGLE:
+Automated classification of protein crystallization x-ray images using deep convolutional neural networks.
+
+
 deep learning for biology   ; 
 
 deep learning drug discovery 
