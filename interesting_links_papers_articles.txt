@@ -9,18 +9,28 @@ crystallization AND machine learning
 
 
 ? GENERAL ARTICLES:
-   New antibiotics found in leafy bacterial battlegrounds    https://newatlas.com/leaf-bacteria-superbug-antibiotic/55671/
-1. deep learning for biology ;  https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+0. New antibiotics found in leafy bacterial battlegrounds    https://newatlas.com/leaf-bacteria-superbug-antibiotic/55671/
+   
+   
+1. deep learning for biology ;  
+   https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+   https://www.nature.com/collections/xkhrxkzwvv
+
+
 2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
 3. Machine learning spots natural selection at work in human genome   ;  https://www.nature.com/articles/d41586-018-07225-z
+
 
 4. Automating molecule design to speed up drug development (use of molecular graph & autoEncoder) ;  http://news.mit.edu/2018/automating-molecule-design-speed-drug-development-0706
 5. Advances in deep learning for drug discovery and biomarker development published in top journal  ;  https://www.eurekalert.org/pub_releases/2018-10/imi-aid101018.php   ; reference to special issue on "Deep Learing for Drug Discovery and Biomarker Development" in Molecular Pharmaceutics
 6. AlphaFold: Using AI for scientific discovery  ; (AI in protein folding) ; https://deepmind.com/blog/alphafold/?utm_content=buffer2b15f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
+  https://moalquraishi.wordpress.com/2018/12/09/alphafold-casp13-what-just-happened/
+  
 7. Automating Drug Discoveries Using Computer Vision ;(Classification of Crystallization Outcomes using Deep Convolutional Neural Networks)  ; https://ai.googleblog.com/2018/07/automating-drug-discoveries-using.html
 8. Combining GANs and reinforcement learning for drug discovery ; https://www.eurekalert.org/pub_releases/2018-05/imi-cga050918.php
 9. Recent applications of deep learning and machine intelligence on in silico drug discovery: methods, tools and databases   https://academic.oup.com/bib/article/20/5/1878/5062947 
 10. Deep Reinforcement Learning for de-novoDrug Design   https://arxiv.org/ftp/arxiv/papers/1711/1711.10907.pdf
+    https://www.chemistryworld.com/news/machine-learning-masters-molecules/3009010.article
 
 
 
@@ -52,6 +62,8 @@ paper: DeepFreak
 10. The Virtual Screening of the Drug Protein with a Few Crystal Structures Based on the Adaboost-SVM.
 11. Crysalis: an integrated server for computational analysis and design of protein crystallization
 12. Improving the chances of successful protein structure determination with a random forest classifier
+
+
 13. Eigenvector centrality for characterization of protein allosteric pathways   https://www.pnas.org/content/115/52/E12201
 
 
@@ -95,6 +107,10 @@ google: use of machine learning in crystallography
 
 19. Machine Learning in Classification Time Series with Fractal Properties  ;  https://www.mdpi.com/2306-5729/4/1/5
 
+
+ECOLOGY
+https://deepmind.com/blog/article/using-machine-learning-to-accelerate-ecological-research
+PNAS paper on organism identification
 
 
 
