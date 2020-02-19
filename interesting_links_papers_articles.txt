@@ -8,13 +8,33 @@ machine learning AND protein structure
 crystallization AND machine learning 
 
 
+
 ? GENERAL ARTICLES:
 0. New antibiotics found in leafy bacterial battlegrounds    https://newatlas.com/leaf-bacteria-superbug-antibiotic/55671/
    
    
 1. deep learning for biology ;  
-   https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
-   https://www.nature.com/collections/xkhrxkzwvv
+https://www.nature.com/articles/d41586-018-02174-z?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_recent_activity_details_shares%3B6HfA%2FbdiQFWo%2FSxzc%2BQsQQ%3D%3D    
+   
+Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+
+Editor's choice: machine learning in healthcare    https://www.nature.com/collections/xkhrxkzwvv   ****
+articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
+https://www.nature.com/articles/nmeth.4370
+https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
+http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
+
+
+A guide to deep learning in healthcare   
+deep learning for biology
+unsolved problems in bioinformatics
+unsolved problems in biology – the current state of thinking (paper by SB Dev)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
+https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
+machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
+Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
+
 
 
 2. Deep learning sharpens views of cells and genes ;  https://www.nature.com/articles/d41586-018-00004-w
@@ -31,19 +51,37 @@ crystallization AND machine learning
 9. Recent applications of deep learning and machine intelligence on in silico drug discovery: methods, tools and databases   https://academic.oup.com/bib/article/20/5/1878/5062947 
 10. Deep Reinforcement Learning for de-novoDrug Design   https://arxiv.org/ftp/arxiv/papers/1711/1711.10907.pdf
     https://www.chemistryworld.com/news/machine-learning-masters-molecules/3009010.article
+Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
+Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
+15. The rise of deep learning in drug discovery   ;  https://www.sciencedirect.com/science/article/pii/S1359644617303598
+17. Inverse molecular design using machine learning: Generative models for matter engineering  ; http://science.sciencemag.org/content/361/6400/360
+18. AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery  ; https://arxiv.org/abs/1510.02855
+19. ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity?  ;  https://arxiv.org/pdf/1708.08227.pdf
+
+
 
 
 
 ? papers: 
-1. A guide to deep learning in healthcare   
    google: machine learning in protein engineering arxiv
 2. Machine learning in protein engineering     https://arxiv.org/pdf/1811.10775.pdf
 3. Machine Learning for Protein Function       https://arxiv.org/abs/1603.02021
 4. Develop machine learning based predictive models for engineering protein solubility  ;  https://arxiv.org/ftp/arxiv/papers/1806/1806.11369.pdf
 5. Computational protein design with deep learning neural networks   https://arxiv.org/ftp/arxiv/papers/1801/1801.07130.pdf
-6. Opportunities and obstacles for deep learning in biology and medicine     https://www.biorxiv.org/content/early/2018/01/19/142760
+6. De novo protein design by citizen scientists   https://www.nature.com/articles/s41586-019-1274-4?error=cookies_not_supported&code=10dc7248-17c4-4cc2-81f4-1957472d123a
+7.  End-to-End Differentiable Learning of Protein Structure    https://www.cell.com/cell-systems/fulltext/S2405-4712(19)30076-6?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2405471219300766%3Fshowall%3Dtrue
+8. TargetCrys: protein crystallization prediction by fusing multi-view features with two-layered SVM.
+9. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
+10. Eigenvector centrality for characterization of protein allosteric pathways   https://www.pnas.org/content/115/52/E12201
+Recognition of protein allosteric states and residues: Machine learning approaches.
+Optical Detection of Degraded Therapeutic Proteins
+Principal component analysis in protein tertiary structure prediction.
+http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
+http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
+onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
+16. Statistical and machine learning approaches to predicting protein–ligand interactions  ;  https://www.sciencedirect.com/science/article/pii/S0959440X17301525
 
-Editor's choice: machine learning in healthcare    https://www.nature.com/collections/xkhrxkzwvv   ****
+
 
 
 google: use of machine learning in crystallography
@@ -51,59 +89,30 @@ paper: Decoding crystallography from high-resolution electron imaging
 paper: Insightful classification of crystal structures using deep learning
 paper: DeepFreak
 
-
 (Pubmed: crystallization AND machine learning )
 4. Cinder: keeping crystallographers app-y.
-5. Computational design of thermostabilizing point mutations for G protein-coupled receptors.
 6. Classification of crystallization outcomes using deep convolutional neural networks.
 7. Machine learning for autonomous crystal structure identification.
 8. Beyond Rotatable Bond Counts: Capturing 3D Conformational Flexibility in a Single Descriptor.
-9. TargetCrys: protein crystallization prediction by fusing multi-view features with two-layered SVM.
 10. The Virtual Screening of the Drug Protein with a Few Crystal Structures Based on the Adaboost-SVM.
 11. Crysalis: an integrated server for computational analysis and design of protein crystallization
 12. Improving the chances of successful protein structure determination with a random forest classifier
+google: use of machine learning in crystallography
+13. Insightful classification of crystal structures using deep learning
+14. Crystal Structure Prediction via Deep Learning
 
 
-13. Eigenvector centrality for characterization of protein allosteric pathways   https://www.pnas.org/content/115/52/E12201
 
 
-machine learning classifies cancer    # https://www.nature.com/articles/d41586-018-02881-7
-Machine Learning in Medicine   # https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831252/
-Recognition of protein allosteric states and residues: Machine learning approaches.
-Optical Detection of Degraded Therapeutic Proteins
-Principal component analysis in protein tertiary structure prediction.
-Deep Learning for Drug Design: an Artificial Intelligence Paradigm for Drug Discovery in the Big Data Era
-Can we accelerate medicinal chemistry by augmenting the chemist with Big Data and artificial intelligence?
-deep learning for biology
-unsolved problems in bioinformatics
-unsolved problems in biology – the current state of thinking (paper by SB Dev)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4341817/  (Big data analytics in healthcare: promise and potential)
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242091/  (Applications of Business Analytics in Healthcare)
-https://www.ncbi.nlm.nih.gov/pubmed/20865540/ (Using Web and social media for influenza surveillance)
-http://www.kdnuggets.com/2017/06/dspp-protein-database-machine-learning-ai.html
-http://biorxiv.org/content/biorxiv/early/2017/06/01/144840.full.pdf 
-onlinelibrary.wiley.com/doi/10.15252/msb.20156651/full (deep learning for computational biology)
 
 ?? application of genetic algorithm
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4678452/ (The Applications of Genetic Algorithms in Medicine)
 http://www.sciencedirect.com/science/article/pii/S0001706X13002131 (Using global maps to predict the risk of dengue in Europe)
 
 
-https://www.broadinstitute.org/scientific-community/science/mia/models-inference-algorithms
-http://advances.sciencemag.org/content/3/6/e1700768.full  (statistical thinking for 21st century scientists)
-articles in nature (statistics for biologists, machine learning & applications in genetics & genomics)
-https://www.nature.com/articles/nmeth.4370
 
 
-google: use of machine learning in crystallography
-13. Insightful classification of crystal structures using deep learning
-14. Crystal Structure Prediction via Deep Learning
 
-15. The rise of deep learning in drug discovery   ;  https://www.sciencedirect.com/science/article/pii/S1359644617303598
-16. Statistical and machine learning approaches to predicting protein–ligand interactions  ;  https://www.sciencedirect.com/science/article/pii/S0959440X17301525
-17. Inverse molecular design using machine learning: Generative models for matter engineering  ; http://science.sciencemag.org/content/361/6400/360
-18. AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery  ; https://arxiv.org/abs/1510.02855
-19. ChemGAN challenge for drug discovery: can AI reproduce natural chemical diversity?  ;  https://arxiv.org/pdf/1708.08227.pdf
 
 19. Machine Learning in Classification Time Series with Fractal Properties  ;  https://www.mdpi.com/2306-5729/4/1/5
 
