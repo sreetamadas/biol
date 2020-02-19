@@ -18,6 +18,7 @@ Check out the Health Data Science Association for more useful resources like the
 
 
 ? Data:
+# images
 https://dimensionless.in/deep-learning-data-sets-for-every-data-scientist/
 google dataset search
 http://datasets.visionbib.com/
@@ -46,7 +47,12 @@ http://www.grand-challenge.org/challenges/
 
 
 
+# NLP
+https://quantumstat.com/dataset/dataset.html    (big bad nlp dataset)
 
+
+
+# general
 https://clinicaltrials.gov/
 NIH
 
