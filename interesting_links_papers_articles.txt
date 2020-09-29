@@ -1,3 +1,14 @@
+? covid & AI
+https://www.kdnuggets.com/2020/04/deep-learning-accelerating-drug-discovery-pharmaceuticals.html
+https://www.nature.com/articles/d41586-020-01733-7    (Artificial-intelligence tools aim to tame the coronavirus literature)
+https://www.innoplexus.com/about-us/   (Life science AI company)
+https://www.innoplexus.com/blog/how-artificial-intelligence-works/
+https://www2.deloitte.com/uk/en/pages/life-sciences-and-healthcare/articles/artificial-intelligence-in-drug-discovery-and-covid-19.html
+https://pharmaphorum.com/views-analysis-digital/how-ai-is-fighting-covid-19-the-companies-using-intelligent-tech-to-find-new-drugs/
+https://scholar.google.com/citations?hl=en&user=G3pc6wUAAAAJ&view_op=list_works&sortby=pubdate   (use of PCA+clustering for checking class segregation - ie assignment of label
+Sharanya - talk in RBAI + IITM, Neuropace, seizure data)
+
+
 ? general topics on pubmed:
 machine learning AND antibiotic resistance 
 machine learning AND drug discovery 
